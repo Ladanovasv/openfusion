@@ -1,0 +1,6 @@
+README.md
+setup.py
+openfusion.egg-info/PKG-INFO
+openfusion.egg-info/SOURCES.txt
+openfusion.egg-info/dependency_links.txt
+openfusion.egg-info/top_level.txt
